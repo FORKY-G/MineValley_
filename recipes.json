@@ -1745,6 +1745,314 @@
     "outputQty": 1
   },
   {
+    "id": "t-66",
+    "name": "가공용 가마솥1",
+    "materials": [
+      {
+        "name": "펌프",
+        "qty": 2
+      },
+      {
+        "name": "급수밸브",
+        "qty": 2
+      },
+      {
+        "name": "기초판재",
+        "qty": 8
+      },
+      {
+        "name": "기초금속판",
+        "qty": 4
+      },
+      {
+        "name": "기계부품",
+        "qty": 8
+      }
+    ],
+    "station": "기술대",
+    "image": "images/t-66.png",
+    "outputQty": 1
+  },
+  {
+    "id": "t-67",
+    "name": "가공용 가마솥2",
+    "materials": [
+      {
+        "name": "펌프",
+        "qty": 6
+      },
+      {
+        "name": "급수밸브",
+        "qty": 4
+      },
+      {
+        "name": "조절기",
+        "qty": 4
+      },
+      {
+        "name": "강화판재",
+        "qty": 12
+      },
+      {
+        "name": "강화금속판",
+        "qty": 8
+      },
+      {
+        "name": "기계부품",
+        "qty": 16
+      }
+    ],
+    "station": "기술대",
+    "image": "images/t-67.png",
+    "outputQty": 1
+  },
+  {
+    "id": "t-68",
+    "name": "가공용 가마솥3",
+    "materials": [
+      {
+        "name": "펌프",
+        "qty": 12
+      },
+      {
+        "name": "급수밸브",
+        "qty": 8
+      },
+      {
+        "name": "조절기",
+        "qty": 4
+      },
+      {
+        "name": "열교환기",
+        "qty": 4
+      },
+      {
+        "name": "센서",
+        "qty": 4
+      },
+      {
+        "name": "압력탱크",
+        "qty": 4
+      },
+      {
+        "name": "정밀판재",
+        "qty": 16
+      },
+      {
+        "name": "정밀금속판",
+        "qty": 12
+      }
+    ],
+    "station": "기술대",
+    "image": "images/t-68.png",
+    "outputQty": 1
+  },
+  {
+    "id": "t-69",
+    "name": "가공용 가마솥4",
+    "materials": [
+      {
+        "name": "펌프",
+        "qty": 16
+      },
+      {
+        "name": "급수밸브",
+        "qty": 12
+      },
+      {
+        "name": "조절기",
+        "qty": 8
+      },
+      {
+        "name": "열교환기",
+        "qty": 8
+      },
+      {
+        "name": "센서",
+        "qty": 8
+      },
+      {
+        "name": "압력탱크",
+        "qty": 8
+      },
+      {
+        "name": "가열코일",
+        "qty": 8
+      },
+      {
+        "name": "고밀도부품",
+        "qty": 16
+      },
+      {
+        "name": "고밀도판재",
+        "qty": 24
+      },
+      {
+        "name": "고밀도금속판",
+        "qty": 24
+      }
+    ],
+    "station": "기술대",
+    "image": "images/t-69.png",
+    "outputQty": 1
+  },
+  {
+    "id": "t-70",
+    "name": "씨앗심기장치1",
+    "materials": [
+      {
+        "name": "토양탐침",
+        "qty": 2
+      },
+      {
+        "name": "모터",
+        "qty": 2
+      },
+      {
+        "name": "기초판재",
+        "qty": 8
+      },
+      {
+        "name": "기초금속판",
+        "qty": 4
+      },
+      {
+        "name": "기계부품",
+        "qty": 8
+      }
+    ],
+    "station": "기술대",
+    "image": "images/t-70.png",
+    "outputQty": 1
+  },
+  {
+    "id": "t-71",
+    "name": "씨앗심기장치2",
+    "materials": [
+      {
+        "name": "토양탐침",
+        "qty": 4
+      },
+      {
+        "name": "모터",
+        "qty": 4
+      },
+      {
+        "name": "변속기",
+        "qty": 2
+      },
+      {
+        "name": "센서",
+        "qty": 4
+      },
+      {
+        "name": "강화판재",
+        "qty": 12
+      },
+      {
+        "name": "강화금속판",
+        "qty": 8
+      },
+      {
+        "name": "기계부품",
+        "qty": 16
+      }
+    ],
+    "station": "기술대",
+    "image": "images/t-71.png",
+    "outputQty": 1
+  },
+  {
+    "id": "t-72",
+    "name": "씨앗심기장치3",
+    "materials": [
+      {
+        "name": "토양탐침",
+        "qty": 8
+      },
+      {
+        "name": "모터",
+        "qty": 8
+      },
+      {
+        "name": "변속기",
+        "qty": 4
+      },
+      {
+        "name": "센서",
+        "qty": 8
+      },
+      {
+        "name": "조절기",
+        "qty": 4
+      },
+      {
+        "name": "분류필터",
+        "qty": 4
+      },
+      {
+        "name": "정밀판재",
+        "qty": 16
+      },
+      {
+        "name": "정밀금속판",
+        "qty": 12
+      }
+    ],
+    "station": "기술대",
+    "image": "images/t-72.png",
+    "outputQty": 1
+  },
+  {
+    "id": "t-73",
+    "name": "씨앗심기장치4",
+    "materials": [
+      {
+        "name": "토양탐침",
+        "qty": 12
+      },
+      {
+        "name": "모터",
+        "qty": 12
+      },
+      {
+        "name": "변속기",
+        "qty": 8
+      },
+      {
+        "name": "센서",
+        "qty": 12
+      },
+      {
+        "name": "조절기",
+        "qty": 8
+      },
+      {
+        "name": "분류필터",
+        "qty": 8
+      },
+      {
+        "name": "급수밸브",
+        "qty": 8
+      },
+      {
+        "name": "고밀도부품",
+        "qty": 16
+      },
+      {
+        "name": "고밀도판재",
+        "qty": 24
+      },
+      {
+        "name": "고밀도금속판",
+        "qty": 24
+      }
+    ],
+    "station": "기술대",
+    "image": "images/t-73.png",
+    "outputQty": 1
+  },
+  {
     "id": "p-1",
     "name": "압축석탄",
     "materials": [
